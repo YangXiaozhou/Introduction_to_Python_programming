@@ -1,3 +1,5 @@
+# Review and Notebooks for Introduction to Python Programming
+
 Suddenly, it seems like everybody is learning how to program and analyze data. One reason is the  opportunity presented by highly accessible computing power and the ease of capturing data. Another is the advent of massive open online course movement (MOOC) and ensuing online learning platforms. To learn something, we are no longer limited to physical classrooms or print (often expensive) textbooks. Educators from around the world design classes that reach student cohort of millions rather than hundreds, and students can come from incredibly diverse backgrounds. Many of the classes offered teach similar contents; They are in a market and "compete" with each other for better student reviews. 
 
 In this article, I would like to recommend such a MOOC: [Introduction to Python Programming](https://www.edx.org/professional-certificate/introduction-to-python-programming), a four-part course run by Dr. David Joyner from the Georgia Institute of Technology. It is not the most popular course on Python programming; It may not even be in **the top 10 list**. However, I would highly recommend anyone who is or has been learning Python on their own to give this class a try. To quote the course overview:
@@ -16,9 +18,9 @@ I have learnt about computing as much as I have reviewed in this course. Therefo
 
 You can find all the Jupyter notebooks in this Github repo, or go straight to one of them:
 
-1. Fundamentals and procedural programming
-2. Control structures
-3. Data structures
-4. Objects and algorithms
+1. [Fundamentals and procedural programming](https://github.com/YangXiaozhou/Introduction_to_Python_programming/blob/master/notebooks/1_Foundamentals_and_procedural_programming.ipynb)
+2. [Control structures](https://github.com/YangXiaozhou/Introduction_to_Python_programming/blob/master/notebooks/2_Control_structures.ipynb)
+3. [Data structures](https://github.com/YangXiaozhou/Introduction_to_Python_programming/blob/master/notebooks/3_Data_structures.ipynb)
+4. [Objects and algorithms](https://github.com/YangXiaozhou/Introduction_to_Python_programming/blob/master/notebooks/4_Objects_and_algorithms.ipynb)
 
 Alternatively, you can see all the notes in one article without the code here. Enjoy. 

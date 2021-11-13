@@ -104,9 +104,9 @@ What is debugging?
 
 Debugging is trying to find why your code doesn't behave the way you want it to. It is also like doing research on our code; the aim is to gather as much information as necessary to debug.
 
-![debugging](/Users/frs/Downloads/2_Data_science/0_Foundation/4_Computer_science/Introduction_to_Python_programming/debugging.gif)
+![debugging](/Users/frs/Downloads/2_Data_science/0_Foundation/4_Computer_science/Introduction_to_Python_programming/assets/debugging.gif)
 
-![debugging](/Users/frs/Downloads/2_Data_science/0_Foundation/4_Computer_science/Introduction_to_Python_programming/debugging2.png)
+![debugging](/Users/frs/Downloads/2_Data_science/0_Foundation/4_Computer_science/Introduction_to_Python_programming/assets/debugging2.png)
 
 Types of errors:
 
