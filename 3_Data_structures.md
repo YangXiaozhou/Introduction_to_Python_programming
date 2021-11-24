@@ -79,6 +79,8 @@ Slicing: Obtain substrings from a string in Python.
 - Using single index: `[index]`
     - `[0]` gets the first, `[-1]`gets the last, and `[i]` gets the (i+1)th character.
     - Zero-based indexing: In early computing age, a variable name points to the first item in the string/list. The index means "how many items do I skip in order to get the target item", e.g., `[3]` says skipping three items from the first item, i.e., to obtain the fourth item. 
+    - Zero-based indexing
+        - Legacy reason, in earlier primitive languages, variable pointers point to the first element in a list. Thus index then means how many items to skip to reach the target item, e.g. to get 5th item, we need to skip 4 items. 
 - Using index range: `[start:end]`, `[start:]`, `[:end]`, `[start:end:space]`
     - Start from the item at index `start` and get a substring with length `end - start`. 
     - Use `space` to get alternate characters, e.g. `[::2]` gets all items at even index. 

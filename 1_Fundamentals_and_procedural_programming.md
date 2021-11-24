@@ -1,4 +1,4 @@
-This is a four-part series.
+This is Chapter 1 of the four-part series of Introduction to Python Programming, based on Dr. David Joyner's Edx [course](https://www.edx.org/professional-certificate/introduction-to-python-programming). To see my review of the course, go here. To see the next Chapter, go here. 
 
 [TOC]
 
@@ -195,3 +195,7 @@ The are `not`, `and`, `or`:
 - `or`: Returns `True` when at least one side is true.
 
 For example, `not True` would produce `False`; `True and False` would produce `False`; `True or False` would produce `True`. Sometimes we encounter a long chain of Boolean evaluation. Python has an internal order of evaluation: `not` > `and` > `or`.
+
+---
+
+This is Chapter 1 of the four-part series of Introduction to Python Programming, based on Dr. David Joyner's Edx [course](https://www.edx.org/professional-certificate/introduction-to-python-programming). To see my review of the course, go here. To see the next Chapter, go here. 
